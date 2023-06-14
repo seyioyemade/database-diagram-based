@@ -42,7 +42,7 @@
 ### Key Features <a name="key-features"></a>
 
 - A clinic database diagram interpreted and implemented in SQL
-- Many to Many table created
+- Many-to-Many table created
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
